@@ -1,2 +1,2 @@
-# CS494 - Big Data
+# Big Data
 The course provided by FCIT, and aims to build industry-valued skills in Data Science, Deep learning, Machine learning, and Python programming using Anaconda.
